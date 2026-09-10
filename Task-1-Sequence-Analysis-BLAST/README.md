@@ -12,7 +12,7 @@ Retrieve a biological sequence and use BLAST to identify homologous sequences.
 - UniProt accession: P04637
 - Sequence length: 393 amino acids
 - Source: UniProt
-- FASTA file: [sequences/TP53_p04637.fasta](sequences/TP53_p04637.fasta)
+- FASTA file: [TP53_p04637.fasta](TP53_p04637.fasta)
 
 ## BLAST Analysis
 
@@ -26,21 +26,19 @@ Retrieve a biological sequence and use BLAST to identify homologous sequences.
 - Gaps: 0/393 (0%)
 - E-value: 0.0
 
-The results show that TP53 is highly conserved between human and gorilla. The
-complete query coverage, very high identity, strong alignment score, and zero
-gaps support a close homologous relationship.
+The results show that TP53 is highly conserved between human and gorilla. The complete query coverage, very high identity, strong alignment score, and zero gaps support a close homologous relationship.
 
 ## Evidence
 
-- [UniProt sequence screenshot](Screenshots/01_Uniport_TP53.png)
-- [Downloaded FASTA screenshot](Screenshots/02_TP53_FASTA.png)
-- [BLAST input screenshot](Screenshots/03_BLAST_Input.png)
-- [BLAST results summary](Screenshots/04_BLAST_Results_summary.png)
-- [Top BLAST hit summary](Screenshots/05_Top_BLAST_summary.png)
-- [Pairwise alignment](Screenshots/06_BLAST_Alignment.png)
+- [UniProt sequence screenshot](01_Uniport_TP53.png)
+- [Downloaded FASTA screenshot](02_TP53_FASTA.png)
+- [BLAST input screenshot](03_BLAST_Input.png)
+- [BLAST results summary](04_BLAST_Results_summary.png)
+- [Top BLAST hit summary](05_Top_BLAST_summary.png)
+- [Pairwise alignment](06_BLAST_Alignment.png)
 
 ## Report
 
 The detailed 2-3 page analysis report is available here:
 
-[Task_1_BLAST_Analysis_Report.pdf](report/Task_1_BLAST_Analysis_Report.pdf)
+[Task_1_BLAST_Analysis_Report.pdf](Task_1_BLAST_Analysis_Report.pdf)
